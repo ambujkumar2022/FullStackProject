@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gqwyh7puBy9WT60HQxmlwxlCRQMFoI0IxAVg6OcEh0l+Lpvr5CJk8lR52g7/Y+OTGoMHuCFWLLF0RRK03Rc4Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ambuj.kumar\\Desktop\\FullStack_Projects_202405\\React\\React-ASP.NET-Core-Youtube-Course-main\\Episode 1 - Communication\\webapi\\webapi\\webapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ambuj.kumar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ambuj.kumar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ambuj.kumar\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\ambuj.kumar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\ambuj.kumar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\ambuj.kumar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
